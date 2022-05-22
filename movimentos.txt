@@ -1,0 +1,10 @@
+MOVIMENTOS NORMAIS
+Cada jogador possue um piao e 10 barreiras.
+No turno de um jogador ele deve decidir entre
+mover o seu piao ou posicionar uma barreira 
+no campo. As barreiras devem ser colocadas 
+entre as casas, elas nao podem colidir uma com
+a outra. Para mover o piao devemos clicar nele
+e entao escolher para qual casa ele deve andar,
+o piao so mode andar para frente, para tras,
+para direita ou esquerda (nunca para a diagonal).

@@ -1,0 +1,4 @@
+tabuleiro/tab1.png
+background/background_6.png
+player/crown2.png
+player/crown1.png

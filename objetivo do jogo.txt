@@ -1,0 +1,11 @@
+OBJETIVO DO JOGO
+Bloqueio e um jogo de estrategia,
+onde os jogadores devem cruzar
+todo o tabuleiro com o seu piao, em
+quanto desviam das barreiras
+posicionadas por ambos os jogadores.
+Quem atravessar o tabuleiro primeiro
+recebe o titulo de vitorioso(a).
+E importante lembrar que sempre deve
+haver um caminha para que os pioes 
+chegem ate o outro lado do tabuleiro.

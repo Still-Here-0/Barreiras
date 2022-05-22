@@ -1,0 +1,12 @@
+MOVIMENTOS ESPECIAIS
+Dois pioes nao podem ocupar a mesma casa
+ao mesmo tempo. Portanto caso algum cenario
+parecido com esse aconteca (um piao pode
+ir para a casa onde outro piao esta) o 
+piao que esta em movimento deve pular o
+outro, indo para a casa diretamente a
+frente. Caso a casa diretamente a frente
+esteja bloqueada por uma barreira ou seja
+o final do tabuleiro, ele pode efetuar
+um pulo para alguma das diagonais (se
+possivel).
